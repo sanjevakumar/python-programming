@@ -6,4 +6,4 @@ if(ch==l):
 elif(ch==L):
   print("Vowel")
 else:
-  print("consonant")
+  print("invalid")
